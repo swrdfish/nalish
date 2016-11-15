@@ -1,4 +1,4 @@
 Nalish
 ======
 
-A customer issue tracker.
+A customer issue tracker. Its supposed to be the Disqus for enterprise.
